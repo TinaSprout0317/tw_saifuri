@@ -1,0 +1,11 @@
+DEBUG = 0
+output_folder = './josh'
+character = 'ジョシュア'
+type = '放出'
+target_status = [3, 1, 103, 100, 71, 310, 310] #[S, H, I, F, M, X, A]
+current_level = 1
+max_level =310
+initial_xien = '共通系'
+change_xien = 300
+next_xien = '放出系'
+bonus_prob = 0.50

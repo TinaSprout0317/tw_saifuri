@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 実行時に出るもの
+tw_saifuri_selftest.txt
+plan_*.txt
+plan_*.tsv
+*.npy

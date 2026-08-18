@@ -1,0 +1,9 @@
+* text=auto
+
+# cmd.exe はバッチをバイト位置で読み進めるので CRLF を崩さない
+*.bat text eol=crlf
+
+*.py   text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+*.png  binary
